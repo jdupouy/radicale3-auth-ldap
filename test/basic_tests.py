@@ -2,7 +2,7 @@
 
 import unittest
 
-import radicale_auth_ldap
+import radicale3_auth_ldap
 
 
 class References(unittest.TestCase):

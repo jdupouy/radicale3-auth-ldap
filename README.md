@@ -6,7 +6,7 @@ You will need to set a few options inside your radicale config file. Example:
 
 ```
 [auth]
-type = radicale_auth_ldap
+type = radicale3_auth_ldap
 
 # LDAP server URL, with protocol and port
 ldap_url = ldap://ldap:389

@@ -32,7 +32,7 @@ import ldap3.core.exceptions
 from radicale.auth import BaseAuth
 from radicale.log import logger
 
-import radicale_auth_ldap.ldap3imports
+import radicale3_auth_ldap.ldap3imports
 
 PLUGIN_CONFIG_SCHEMA = {"auth": {
     "ldap_url": {
