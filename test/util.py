@@ -11,3 +11,6 @@ class ConfigMock:
 
     def get(self, a, b):
         return self.configuration[a][b]
+
+    def copy(self, c):
+        return self
